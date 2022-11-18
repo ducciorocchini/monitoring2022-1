@@ -107,7 +107,7 @@ difnir <- p224r63_1988[[4]]-p224r63_2011[[4]]
 
 
 
-cl <- colorRampPalette(c('orange','black','yellow'))(100) # 
+cl <- colorRampPalette(c('orange','yellow','black'))(100) # 
 plot(difnir, col=cl)
 
 
